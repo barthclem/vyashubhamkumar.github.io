@@ -51,3 +51,8 @@ iframe {
 .CSS-container, .JS-container {
 	display: none;
 }
+
+#btn-result {
+	position:relative;
+	right:10px;
+}

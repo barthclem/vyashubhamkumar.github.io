@@ -4,8 +4,10 @@ I have Created this Repository to Host all my hostable repositories, and then us
 
 Profile | About
 ------------ | -------------
-![My Profile Pic](https://avatars0.githubusercontent.com/u/17760046?s=400&u=7907c1d53a10ca9474f6ae6ea98342dfd0f99971&v=4) | > Junior Web Developer specializing in front end development. Experienced with all stages of the development cycle for dynamic web projects. Well-versed in numerous web programming languages including JavaScript.
-> Currently working as an Intern Web Developer at QuestEase Solutions, Hyderabad, Where I am responsible for designing and developing Front end of the web application the organization is building.
+![My Profile Pic](https://avatars0.githubusercontent.com/u/17760046?s=400&u=7907c1d53a10ca9474f6ae6ea98342dfd0f99971&v=4) |  Junior Web Developer specializing in front end development. Experienced with all stages of the development cycle for dynamic web projects. Well-versed in numerous web programming languages including JavaScript.
+
+## Work Experience:
+> Currently working as an **Intern Web Developer** at *QuestEase Solutions*, Hyderabad, Where I am responsible for designing and developing Front end of the web application the organization is building.
 > Link to current Project [(Aiminbox.com) - (Under Developement)](http://www.aiminbox.com/aiminbox/)
 
 

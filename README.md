@@ -1,6 +1,6 @@
-# **Welcome to My Github Page :pray:**
+# **Welcome to My Github Page**
 
-I have Created this Repository to Host all my hostable repositories, and then use them as work samples in my resume :thumbsup: .
+I have Created this Repository to Host all my hostable repositories, and then use them as work samples in my resume.
 
 Profile | About
 ------------ | -------------
@@ -12,7 +12,7 @@ Profile | About
 
 
 
-## Below are all my Work Samples :smile: :
+## Below are all my Work Samples:
 Following all are my Work Samples and their links:
 
 #### 1.Link to my [Live_Code_Play_Repo](https://github.com/vyashubhamkumar/Live_Code_Play).
@@ -33,8 +33,8 @@ Following all are my Work Samples and their links:
 
 #### 4.Link to [Questease Portal]()
 
-* It is the portal for Questease Solution's where i am working as fornt end developer intern, here I am responsibel for developing the front end 
-
+* It is the portal for Questease Solution's where i am working as fornt end developer intern, this repository holds their webportal which is designed and developed by me
+* Still work in *Progress*
 
 
 
@@ -47,5 +47,5 @@ You can Check my [GitHub - profile here](https://github.com/vyashubhamkumar).
 [Twitter](https://www.twitter.com/@vyas_sv_)
 
 
-###### *Thanks for visiting :smiley: :wave: *
+#### *Thanks for visiting*
 

@@ -1,8 +1,11 @@
-# **Welcome to My Github Page**
+# **Welcome to My Github Page :pray:**
 
-I have Created this Repository to Host all my hostable repositories, and then use them as work samples in my resume.
+I have Created this Repository to Host all my hostable repositories, and then use them as work samples in my resume :thumbsup: .
 
-## My Work Samples:
+![My Profile Pic](https://avatars0.githubusercontent.com/u/17760046?s=400&u=7907c1d53a10ca9474f6ae6ea98342dfd0f99971&v=4)
+
+
+## Below are all my Work Samples :smile: :
 Following all are my Work Samples and their links:
 
 #### 1.Link to my [Live_Code_Play_Repo](https://github.com/vyashubhamkumar/Live_Code_Play).
@@ -10,8 +13,8 @@ Following all are my Work Samples and their links:
 
 #### 2.Link to my [Agency Design](https://github.com/vyashubhamkumar/Agency_Design).
 * Website Coded By me, but Designed by Masum Parvej at Dribbble, All Credits goes to him !!!
-* Here is a link to his profile [Masum Pravej]:{https://dribbble.com/masum_parvej}
-* Link to [Design_Inspiration]:{https://dribbble.com/shots/3026375-Creative-Design/attachments/634117}.
+* Here is a link to his profile [Masum Pravej](https://dribbble.com/masum_parvej)
+* Link to [Design_Inspiration](https://dribbble.com/shots/3026375-Creative-Design/attachments/634117).
 * I Don't own any copy rights.
 
 #### 3.Link to [Tile_calculator_SriRamdevSanitation](https://github.com/vyashubhamkumar/Tile_calculator_SriRamdevSanitation)
@@ -22,7 +25,10 @@ Following all are my Work Samples and their links:
 * App Link: [MediaFire_link ](https://www.mediafire.com/?lcxphlkdj7irnrc)
 
 
+
+
+
 You can Check my [GitHub - profile here](https://github.com/vyashubhamkumar).
 
-###### *Thanks for visiting*
+###### *Thanks for visiting :smiley: :wave: *
 

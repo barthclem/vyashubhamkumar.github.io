@@ -15,25 +15,28 @@ Profile | About
 ## Below are all my Work Samples:
 Following all are my Work Samples and their links:
 
-### 1.[Live_Code_Play_Repo](https://github.com/vyashubhamkumar/Live_Code_Play).
+### 1.[Live_Code_Play_Repo](https://vyashubhamkumar.github.io/Live_Code_Play/).
 * It is a runtime code player designed using jQuery, It allows you to write HTML, CSS, JS code and at the same time   Displays the result, In the Result Section (Dynamically).
 
-### 2.[Agency Design](https://github.com/vyashubhamkumar/Agency_Design).
-* Website Coded By me, but Designed by Masum Parvej at Dribbble, All Credits goes to him !!!
+### 2.[Agency Design](https://vyashubhamkumar.github.io/Agency_Design/).
+* Website Coded By me, when i started to learn the **Modern front end development workfolow**.
+* This website is Designed by Masum Parvej at Dribbble, All Credits goes to him !!!
 * Here is a link to his profile [Masum Pravej](https://dribbble.com/masum_parvej)
 * Link to [Design_Inspiration](https://dribbble.com/shots/3026375-Creative-Design/attachments/634117).
 * I Don't own any copy rights.
+* **This website is still not responsive, because i created it during learning process**
 
-### 3.[Tile_calculator_SriRamdevSanitation](https://github.com/vyashubhamkumar/Tile_calculator_SriRamdevSanitation)
+### 3.[Tile_calculator_SriRamdevSanitation](https://vyashubhamkumar.github.io/Tile_Calculator/)
 * It is Calculator that is designed using Javascript.
 * It Calculates Total Area and Number of Boxes of Tiles required to cover that area, Total number of Tiles, Based on The Different Sizes given by Users.
 * By Default it takes every values in Feet.
 * Steps to Use: Just Link Bootstrap css and Js and start using it. Or you can download TileApp-Quick_App.signed.apk to use it on your Android Mobile.
 * App Link: [MediaFire_link ](https://www.mediafire.com/?lcxphlkdj7irnrc)
 
-### 4.[Questease Portal]()
+### 4.[Questease Portal](https://vyashubhamkumar.github.io/Questease_Portal/)
 
 * It is the portal for Questease Solution's where i am working as fornt end developer intern, this repository holds their webportal which is designed and developed by me
+* completely Responsive. 
 * Still work in *Progress*
 
 

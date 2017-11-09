@@ -1,0 +1,69 @@
+<DOCTYPE html>
+<html>
+	<head>
+		<title>Tile-Calculator</title>
+		<meta charset="utf-8">
+	    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	    <meta name="viewport" content="width=device-width, initial-scale=1">
+	    <meta name="description" content="">
+	    <meta name="author" content="">
+		<!-- Latest compiled and minified CSS -->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+		<link rel="stylesheet" type="text/css" href="css/custom.css">
+
+		<!-- Latest compiled and minified JavaScript -->
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+		<script type="text/javascript" src="js/main_logic.js"></script>
+	</head>
+	<body>
+		<div  class="container-fluid">
+			<h1 style="text-align: center;">Tile's Calculator</h1>
+			<div class="row">
+				<div class="col-md-4 well margin-Top custom-div">
+					<div class="lead"><h2>Enter the following:</h2></div>
+						<div class="lead"><p>Bathroom-Details:</p></div>
+						<form id="form_1" name="form_1">
+							<label for="floor-width">Floor Width:</label>
+							<input type="number" name="floor-width" id="floor-width" class="form-control" placeholder="in Feet"  required autofocus><br>
+							<label for="floor-length">Floor Length:</label>
+							<input type="number" name="floor-length" id="floor-length" class="form-control" placeholder="in Feet" required><br>
+							<label for="wall-height">Wall Height:</label>
+							<input type="number" name="wall-height" id="wall-height" class="form-control" placeholder="in Feet" required><br>
+							<label for="door-space">Door Space:</label>
+							<input type="number" name="door-space" id="door-space" class="form-control" placeholder="in Feet" required>
+							<br>
+							<button type="button" class="btn btn-primary form-control margin-Top" id="first_button" onclick="return calc();">Calculate</button><br><br>
+							<button type="button" class="btn btn-danger form-control" id="reset_button" onclick="return reset_function();">Reset</button>
+						</form>
+				</div>
+			
+				<div class="col-md-4 well margin-Top custom-div">
+					<div class="lead"><h2>Enter Tile Size:</h2></div>
+					<div class="lead"><h4>* Note! You can Try Different Sizes</h4></div>
+					<form id="form_2" name="form_2">
+					<label for="tile-width">Tile Width:</label>
+					<input type="number" id="tile-width" name="tile-width" class="form-control" placeholder="in inches" required><br>
+					<label for="tile-height">Tile height:</label>
+					<input type="number"  id="tile-height" name="tile-height" class="form-control" placeholder="in inches" required><br>
+					<label for="n_tiles">(How Many) - Tiles per Box:</label>
+					<input type="number"  id="n_tiles" name="n_tiles" class="form-control" placeholder="Number of tiles per Box" required><br>
+					<div id="eg" width="100px" height="100px">Example Tile</div>
+					<button type="button" class="btn btn-primary form-control margin-Top" id="tileButton" onclick="return calc2()">Change</button>
+					</form>				
+
+				</div>
+			
+				<!-- RESULT Div Start -->
+				<div class="col-md-4 well margin-Top custom-div">
+					<div class="lead"><h2>Result:</h2></div>
+					<div  class="lead margin-Top"><p id="Rfeet">Running-Feet : </p></div>
+					<div  class="lead margin-Top"><p id="T-area">Total-Area : </p></div>
+					<div  class="lead margin-Top"><p id="V-lines"> ^ Vertical Lines : </p></div>
+					<div  class="lead margin-Top"><p id="H-lines"> &gt Horizontal Lines : </p></div>
+					<div  class="lead margin-Top"><p id="Boxes">Number of Boxes : </p></div>
+				</div>
+				<!-- Result Div End -->			
+			</div>	
+		</div>
+	</body>
+</html>

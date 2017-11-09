@@ -6,7 +6,7 @@ I have Created this Repository to Host all my hostable repositories, and then us
 Following all are my Work Samples and their links:
 
 #### 1.Link to my [Live_Code_Play_Repo](https://github.com/vyashubhamkumar/Live_Code_Play).
-        It is a runtime code player designed using jQuery, It allows you to write HTML, CSS, JS code and at the same time   Displays the result, In the Result Section (Dynamically).
+* It is a runtime code player designed using jQuery, It allows you to write HTML, CSS, JS code and at the same time   Displays the result, In the Result Section (Dynamically).
 
 #### 2.Link to my [Agency Design](https://github.com/vyashubhamkumar/Agency_Design).
 * Website Coded By me, but Designed by Masum Parvej at Dribbble, All Credits goes to him !!!

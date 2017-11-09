@@ -15,7 +15,7 @@ Profile | About
 ## Below are all my Work Samples:
 Following all are my Work Samples and their links:
 
-### 1.[Live_Code_Play_Repo](https://vyashubhamkumar.github.io/Live_Code_Play/).
+### 1.https://vyashubhamkumar.github.io/Live_Code_Play/
 * It is a runtime code player designed using jQuery, It allows you to write HTML, CSS, JS code and at the same time   Displays the result, In the Result Section (Dynamically).
 
 ### 2.[Agency Design](https://vyashubhamkumar.github.io/Agency_Design/).

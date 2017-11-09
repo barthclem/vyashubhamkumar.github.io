@@ -42,9 +42,7 @@ Following all are my Work Samples and their links:
 You can Check my [GitHub - profile here](https://github.com/vyashubhamkumar).
 
 ### Links to Other Profiles:
-[LinkedIn](https://www.linkedin.com/in/vyas-shubham)
-[Facebook](https://www.facebook.com/Shubham.vyas.7739)
-[Twitter](https://www.twitter.com/@vyas_sv_)
+[LinkedIn](https://www.linkedin.com/in/vyas-shubham) | [Facebook](https://www.facebook.com/Shubham.vyas.7739) | [Twitter](https://www.twitter.com/@vyas_sv_)
 
 
 #### *Thanks for visiting*

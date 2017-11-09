@@ -15,10 +15,10 @@ Profile | About
 ## Below are all my Work Samples:
 Following all are my Work Samples and their links:
 
-### 1.https://vyashubhamkumar.github.io/Live_Code_Play/
+### [1.Live_Code_Play](https://vyashubhamkumar.github.io/Live_Code_Play/)
 * It is a runtime code player designed using jQuery, It allows you to write HTML, CSS, JS code and at the same time   Displays the result, In the Result Section (Dynamically).
 
-### 2.[Agency Design](https://vyashubhamkumar.github.io/Agency_Design/).
+### [2.Agency Design](https://vyashubhamkumar.github.io/Agency_Design/).
 * Website Coded By me, when i started to learn the **Modern front end development workfolow**.
 * This website is Designed by Masum Parvej at Dribbble, All Credits goes to him !!!
 * Here is a link to his profile [Masum Pravej](https://dribbble.com/masum_parvej)
@@ -26,7 +26,7 @@ Following all are my Work Samples and their links:
 * I Don't own any copy rights.
 * **This website is still not responsive, because i created it during learning process**
 
-### 3.[Tile_calculator_SriRamdevSanitation](https://vyashubhamkumar.github.io/Tile_Calculator/)
+### [3.Tile_calculator_SriRamdevSanitation](https://vyashubhamkumar.github.io/Tile_Calculator/)
 * It is Calculator that is designed using Javascript.
 * It Calculates Total Area and Number of Boxes of Tiles required to cover that area, Total number of Tiles, Based on The Different Sizes given by Users.
 * By Default it takes every values in Feet.

@@ -35,7 +35,7 @@ Following all are my Work Samples and their links:
 
 ## 4.Questease Portal - [Link](https://vyashubhamkumar.github.io/Questease_Portal/)
 
-* It is the portal for Questease Solution's where i am working as fornt end developer intern, this repository holds their webportal which is designed and developed by me
+* It is the portal for Questease Solution's where i am working as front end developer intern, this repository holds their webportal which is designed and developed by me
 * completely Responsive. 
 * Still work in *Progress*
 

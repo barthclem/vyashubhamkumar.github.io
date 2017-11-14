@@ -17,8 +17,7 @@ $(document).ready( function(){
 			var defaultHTMLInput = "<div class='loader'></div><div class='loader second'></div>";
 			var defaultCSSInput =  ".loader{"+
     								"\nbackground:khaki;"+
-			    					"\nborder: 4px solid white;"+
-    								"\nborder-top: 16px solid #3498db; /* Blue */ "+
+			    					"\nborder: 4px dashed white;"+
     								"\nborder-radius: 50%;"+
     								"\nwidth: 100px;"+
 								"\nheight: 100px;"+

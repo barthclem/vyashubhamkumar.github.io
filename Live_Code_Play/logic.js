@@ -36,8 +36,8 @@ $(document).ready( function(){
 			    					"\nheight:50px;"+
 			    					"\nwidth:50px;"+
 			    					"\nanimation-duration:8s;"+
-								"\ntop:-57px;"+
-			    					"\nright:16px;"+
+								"\ntop:-67px;"+
+			    					"\nright:42px;"+
 			    					"\nanimation-direction:reverse;"+
 			    					"}";
 

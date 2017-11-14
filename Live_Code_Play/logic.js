@@ -14,7 +14,7 @@ $(document).ready( function(){
 			var navBarHeight = $(".navbar").height();
 			var codeContainerHeight = windowHeight - navBarHeight;
 
-			var defaultHTMLInput = "<div class='loader'></div><div class='loader second'></div>";
+			var defaultHTMLInput = "<div class='loader'></div>\n<div class='loader second'></div>";
 			var defaultCSSInput =  ".loader{"+
     								"\nbackground:khaki;"+
 			    					"\nborder: 4px dashed white;"+

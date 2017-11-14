@@ -14,22 +14,33 @@ $(document).ready( function(){
 			var navBarHeight = $(".navbar").height();
 			var codeContainerHeight = windowHeight - navBarHeight;
 
-			var defaultHTMLInput = "<div class='loader'></div>";
+			var defaultHTMLInput = "<div class='loader'></div><div class='loader second-loader'></div>";
 			var defaultCSSInput =  ".loader{"+
-    								"\n\tborder: 16px solid #f3f3f3; /* Light grey */"+
-    								"\n\tborder-top: 16px solid #3498db; /* Blue */ "+
-    								"\n\tborder-radius: 50%;"+
-    								"\n\twidth: 120px;"+
-								    "\n\theight: 120px;"+
-								    "\n\tanimation: spin 2s linear infinite;"+
-								    "\n\tmargin:0 auto;"+
-								    "\n\tmargin-top:55px;"+
+    								"\nbackground:khaki"+
+			    					"\nborder: 4px solid white;"+
+    								"\nborder-top: 16px solid #3498db; /* Blue */ "+
+    								"\nborder-radius: 50%;"+
+    								"\nwidth: 100px;"+
+								"\nheight: 100px;"+
+								"\nanimation: spin 15s linear infinite;"+
+								"\nmargin:0 auto;"+
+								"\nmargin-top:55px;"+
 								"\n}"+
 								"\n@keyframes spin {"+
-								    "\n\t0% { transform: rotate(0deg); }"+
-								    "\n\t100% { transform: rotate(360deg);"+
+								    "\n0% { transform: rotate(0deg); }"+
+								    "\n100% { transform: rotate(360deg);"+
 								    "}"+
-								    "\n }";
+								 "\n }"+
+								"\n\n.second-loader {"+
+			    					"\nbackground-color:tomato;"+
+			    					"\nposition:relative;"+
+			    					"\nheight:50px;"+
+			    					"\nwidth:50px;"+
+			    					"\nanimation-duration:8s;"+
+								"\ntop:-57px;"+
+			    					"\nright:16px;"+
+			    					"\nanimation-direction:reverse;"+
+			    					"}";
 
 
 			$(".code-container").height(codeContainerHeight+"px");

@@ -14,9 +14,9 @@ $(document).ready( function(){
 			var navBarHeight = $(".navbar").height();
 			var codeContainerHeight = windowHeight - navBarHeight;
 
-			var defaultHTMLInput = "<div class='loader'></div><div class='loader second-loader'></div>";
+			var defaultHTMLInput = "<div class='loader'></div><div class='loader second'></div>";
 			var defaultCSSInput =  ".loader{"+
-    								"\nbackground:khaki"+
+    								"\nbackground:khaki;"+
 			    					"\nborder: 4px solid white;"+
     								"\nborder-top: 16px solid #3498db; /* Blue */ "+
     								"\nborder-radius: 50%;"+
@@ -31,7 +31,7 @@ $(document).ready( function(){
 								    "\n100% { transform: rotate(360deg);"+
 								    "}"+
 								 "\n }"+
-								"\n\n.second-loader {"+
+								"\n\n.second {"+
 			    					"\nbackground-color:tomato;"+
 			    					"\nposition:relative;"+
 			    					"\nheight:50px;"+

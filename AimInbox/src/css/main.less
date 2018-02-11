@@ -1,0 +1,75 @@
+@import url('./modules/bootstrap-custom.css');
+@import url('./modules/variables.less');
+@import url('./modules/hero-section.less');
+@import url('./modules/call-to-action.less');
+@import url('./modules/features-section.less');
+@import url('./modules/about-styles.less');
+@import url('./modules/subscribe.less');
+@import url('./modules/contact-us.less');
+@import url('./modules/pricing.less');
+@import url('./modules/footer.less');
+
+
+.bg-grey {
+	background-color: @theme-grey !important;
+}
+
+.btn {
+	font-weight: 600;
+	text-transform: uppercase !important;
+	padding: inherit 20px !important;
+}
+
+.btn:hover {
+	cursor: pointer;
+	// color: @theme-black;
+	// background-color: @theme-light-green;
+}
+
+.form-group {
+	input {
+		padding: 15px;
+	}
+
+	input:focus {
+		border-color: @theme-success;
+	}
+}
+
+textarea {
+	overflow-x: hidden;
+}
+
+.navbar-dark .navbar-nav .active>.nav-link, 
+.navbar-dark .navbar-nav .nav-link.active, 
+.navbar-dark .navbar-nav .nav-link.show, 
+.navbar-dark .navbar-nav .show>.nav-link,
+.navbar-dark .navbar-brand {
+	color: @theme-success;
+}
+
+.navbar-dark .navbar-nav >.nav-link:hover,
+.navbar-dark .navbar-nav >.nav-link:focus,  
+.navbar-dark .navbar-nav .nav-link:hover, 
+.navbar-dark .navbar-nav .nav-link:focus, 
+.navbar-dark .navbar-nav .nav-link:hover, 
+.navbar-dark .navbar-nav .nav-link:focus,
+.navbar-dark .navbar-nav >.nav-link:hover,
+.navbar-dark .navbar-nav >.nav-link:focus,
+.navbar-dark .navbar-brand:hover,
+.navbar-dark .navbar-brand:focus,
+.navar-dark .navbar-brand:focus {
+	color: @theme-light-green;
+}
+
+.navbar-dark .navbar-brand {
+	font-weight: 600;
+}
+
+li.nav-item {
+    padding: 0 8px;
+}
+
+
+
+

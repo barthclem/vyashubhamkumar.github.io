@@ -1,0 +1,132 @@
+@import (reference) "variables.less";
+
+.section-padding {
+	padding: 30px;
+	margin-top: 15px;
+	padding-bottom: 0;
+}
+
+.section-heading {
+	padding: 25px;
+}
+
+.section-heading>h1 {
+	font-size: 2.4rem;
+	font-weight: 900;
+}
+
+.sub-heading {
+	font-size: 2.1rem;
+	// font-size: 3.2em;
+	font-weight: 600;
+}
+
+.sub-heading.text-thin {
+	font-weight: lighter;
+	font-size: 2.3rem;
+}
+
+.leading {
+	padding-top: 15px;
+	padding-right: 30px;
+	font-size: 1.8em;
+	letter-spacing: -0.2px;
+	word-spacing: 2px;
+	font-weight: 400;
+}
+
+.divider {
+	width: 100px;
+	margin: 0 auto;
+	padding-top: 20px;
+	border-radius: 100%;
+}
+
+.divider hr {
+	border-top: 6px solid @theme-light-grey;
+	opacity: 0.5;
+	margin-bottom: 10px;
+}
+
+.know-more-btn {
+	font-weight: 500;
+	margin-top: 17px !important;
+	color: @theme-light !important;
+	transition-duration:.3s;
+	background-color: darken(@theme-light-grey, 20%);
+}
+
+.know-more-btn:hover {
+	background-color: @theme-success !important;
+	color: @theme-light;
+}
+
+
+.img-wrap {
+	background-image: url('../img/left1.png');
+	background-repeat: no-repeat;
+	background-size:contain;
+	background-position-x: center;
+	background-position-y: center;
+	height: 500px;
+	width: 100%;
+	min-height: 300px;
+	// transform: translateX(-5%)
+}
+
+.row-reverse {
+	display: flex;
+	flex-direction: row-reverse;
+}
+
+.row-reverse .img-wrap {
+	transform: translateX(0);
+	// background-position-x: left;
+}
+
+// Extra small devices less than 767px
+@media (max-width: 767px) {
+
+	.img-wrap, .row-reverse .img-wrap {
+			background-size: contain;
+			background-position: center;
+			background-position-y: center;
+			height: unset;
+			transform: translateX(0) !important;
+	}
+
+	.section-padding {
+		padding: 10px;
+	}
+
+	.section-heading {
+		padding: 20px;
+	}
+
+
+	.leading {
+		padding-top: 10px;
+		padding-right: 20px;
+		font-size: 1em;
+	}
+
+
+	.sub-heading {
+		font-size: 1.6rem;
+		font-weight: 600;
+	}
+
+	.sub-heading.text-thin {
+		font-weight: 600;
+		font-size: 2rem;
+	}
+	.responsive-lead {
+		font-size: 12px;
+	}
+	.moblie-p-0 {
+		padding: 0 !important;
+	}
+	.section-padding.feature-heading{
+		padding: 20px;
+	}
+}

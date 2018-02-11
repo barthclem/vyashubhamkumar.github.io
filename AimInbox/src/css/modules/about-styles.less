@@ -1,0 +1,51 @@
+@import (reference) "variables.less";
+
+.block {
+    background-image: url('http://via.placeholder.com/500x500');
+    background-repeat: no-repeat;
+    background-size: cover; 
+    background-position: center;
+    border: 1px solid white;
+    height: 250px;
+    .block-info {
+        height: 100%;
+        padding: 20px 60px;
+        color: white;
+        background: rgba(0, 0, 0, 0.678);
+
+        .block_heading {
+            margin-top: 10px;
+            margin-bottom: 20px;
+        }
+    }
+}
+
+
+.social-icons {
+    background: #F6F6F6 ;
+    margin-bottom: 35px;
+    ul {
+        li {
+            margin: 25px;
+            background: @theme-light-grey;
+            padding: 10px;
+            border-radius: 50%;
+            height: 50px;
+            width: 50px;
+            text-align: center;
+            i {
+                padding-top: 5px;
+                font-size: 20px;
+                line-height: 20px;
+                vertical-align: middle;
+                margin: 0 !important;
+                color: #f6f6f6;
+            }
+        }
+
+        li:hover {
+            cursor: pointer;
+            background: #808080;
+        }
+    }
+}

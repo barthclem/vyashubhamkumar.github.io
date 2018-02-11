@@ -1,0 +1,45 @@
+@import (reference) "variables.less";
+
+.subscribe-wrap {
+    padding: 60px 15px;
+    color: @theme-grey;
+    margin-bottom: 30px;
+    h1.subscribe-heading {
+        margin-top: 25px;
+        color:@theme-medium-grey;
+    }
+}
+
+.text-grey {
+    font-weight: 600;
+    color: @theme-light-grey;
+}
+
+.subscribe-call-to-action-wrap {
+    margin: 0 auto;
+    width:50%;
+    .form-inline {
+        flex-wrap: nowrap;
+    }
+    input {
+        flex: 1;
+    }
+    button {
+        text-transform: uppercase;
+    }
+}
+
+// Extra small devices less than 767px
+@media (max-width: 767px) {
+    .subscribe-call-to-action-wrap {
+        width: 80%;
+        .form-inline {
+            flex-wrap: wrap;
+            justify-content: center;
+            button, input {
+                margin: 10px;
+            }
+            
+        }
+    }
+}

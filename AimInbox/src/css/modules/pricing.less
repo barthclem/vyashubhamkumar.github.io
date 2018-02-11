@@ -1,0 +1,71 @@
+@import (reference) "variables.less";
+
+.sub-block {
+    background: lighten(@theme-success, 15%);
+    color: white;
+
+    p {
+        font-size: 12px;
+    }
+}
+
+.plan-desc  {
+    p {
+        color: @theme-medium-grey;
+        font-weight: 600;
+    }
+}
+
+.plan-price {
+    font-size: 3.8rem;
+    font-weight: 600;
+
+    span {
+        color: @theme-medium-grey;
+        font-size: 2rem;
+    }
+}
+
+.two-prices {
+    padding-top: 35px;
+    font-size: 2rem !important;
+    
+    span {
+        font-size: 1rem !important;
+    }
+}
+
+.foot-note {
+    font-weight: 400;
+    color: @theme-medium-grey;
+    text-transform: capitalize;
+}
+
+.custom-card {
+    border: none;
+    border-radius: 2px;
+}
+
+.card-1 {
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+}
+
+.card-1:hover, .prehovered {
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22) !important;
+}
+
+.prehovered {
+    z-index: 50 !important;
+}
+
+.zoomed {
+    zoom: 110%;
+}
+
+@media (max-width: 992px ) {
+    .zoomed {
+        margin-top: 20px !important;
+        // margin-bottom: 20px !important; 
+    }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "aiminbox.com",
+  "version": "1.0.0",
+  "description": "Questease powered webapp",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "popper.js": "^1.12.9",
+    "tooltip.js": "^1.1.7"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.21.0",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.9.0",
+    "gulp-compile-handlebars": "^0.6.1",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-less": "^3.3.2",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^2.6.2",
+    "gulp-uglify": "^3.0.0",
+    "gulp-web-dependencies": "^1.1.2",
+    "pump": "^2.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shubham vyas (vyas.shubham563@gmail.com)",
+  "license": "ISC"
+}

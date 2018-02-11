@@ -1,0 +1,58 @@
+@import (reference) "variables.less";
+
+.footer-img-bg {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.footer-overlay {
+     padding-bottom: 0;
+     padding: 70px 0px;
+    background: rgba(0, 0, 0, 0.795);
+}
+
+.footer {
+    // background: rgba(0, 0, 0, 0.87);
+    color: white;
+
+    .form-custom{
+        padding-bottom: 40px;
+    }
+
+    input.custom-input {
+        padding: 15px;
+        background: rgba(255, 255, 255, 0.349);
+        color: white !important;
+    }
+
+    input.custom-input::placeholder {
+        color: white;
+    }
+
+    .footer-main {
+        font-weight: lighter;
+        font-size: 12px;
+        background: rgba(0, 0, 0, 0.945);
+        padding: 25px;
+
+        small {
+            color: @theme-light-grey
+        }
+    }
+}
+
+.form-custom {
+    padding: 15px;
+    input {
+        margin: 15px;
+    }
+}
+
+@media (max-width: 767px) {
+    .no-float {
+        float: none !important;
+        text-align: center !important;
+        margin: 20px;
+    }
+}

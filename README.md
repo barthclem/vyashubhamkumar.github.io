@@ -8,6 +8,7 @@ Profile | About
 
 # Work Experience:
 > Currently woring as a **Front End Developer** at **Froogal** - (Aadhar SoftTech Solutions).
+
 > Worked as a **Intern Web Developer** at *QuestEase Solutions*, Hyderabad, Where I am responsible for designing and developing Front end of the web application the organization is building.
 
 # Below are all my Work Samples:
